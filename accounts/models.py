@@ -58,4 +58,3 @@ class Order(models.Model):
     
 # customer and product is foreign key which is reffered by orders 
 # many products have many tags so considered manyTomany Relationship reffered by orders
-
